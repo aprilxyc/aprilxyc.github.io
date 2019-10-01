@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: April Chi
+bio: Computer Science Student
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=1woLGsGb4VYJ8uYqbGXWpJBHyZ8_l3VRI
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: aprilxyc
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,14 +51,14 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: aprilchi4@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: April Chi
+        bio: I like coding and travelling!
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/websitephoto.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
